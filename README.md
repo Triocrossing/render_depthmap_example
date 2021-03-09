@@ -14,13 +14,5 @@ https://github.com/intel-isl/Open3D/pull/2564
     pip install open3d-0.11.1-cp38-cp38-linux_x86_64.whl   (in linux)
 
     # run example
-    python main.py
+    python main.py folder2ScannedFiles
 
-
-#### Capture the screen
-
-![Capture the screen](screenshot_image.png)
-
-#### Capture depth
-
-![Capture depth](screenshot_depth.png)
